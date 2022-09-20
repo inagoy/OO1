@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Informatica\OO1\Proyectos Eclipse\Ejercicio5"/>
 			<item value="E:\Informatica\OO1\Proyectos Eclipse\Ejercicio3"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,6 +27,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.Ejercicio6"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio8"/>
+			<item value="ar.edu.unlp.info.oo1.Ejercicio5"/>
+			<item value="ar.edu.unlp.info.oo1.objetos_uno"/>
 			<item value="ar.edu.unlp.info.oo1.Ejercicio4"/>
 			<item value="ar.edu.unlp.info.oo1.Ejercicio3"/>
 		</list>
@@ -33,6 +38,10 @@
 			<item value="ar.edu.unlp.info.oo1"/>
 		</list>
 		<list key="artifactId">
+			<item value="Ejercicio6"/>
+			<item value="Ejercicio8"/>
+			<item value="Ejercicio5"/>
+			<item value="objetos-uno"/>
 			<item value="Ejercicio4"/>
 			<item value="Ejercicio3"/>
 		</list>
@@ -46,6 +55,7 @@
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0.0"/>
 		</list>
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
