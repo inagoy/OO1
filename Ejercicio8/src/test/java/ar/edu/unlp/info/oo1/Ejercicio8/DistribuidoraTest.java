@@ -1,4 +1,4 @@
-package ar.edu.unlp.info.oo1.ej8_distribuidora;
+package ar.edu.unlp.info.oo1.Ejercicio8;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -36,7 +36,7 @@ public class DistribuidoraTest {
 	 */
 	@Test
 	public void testConstructor() {
-		assertEquals(50d, this.distribuidora.getPrecioKW());
+		assertEquals(50d, this.distribuidora.getPrecioKWh());
 		assertEquals(0d, this.distribuidora.consumoTotalActiva());
 		assertTrue(this.distribuidora.facturar().isEmpty());
 		assertTrue(this.distribuidora.getUsuarios().isEmpty());

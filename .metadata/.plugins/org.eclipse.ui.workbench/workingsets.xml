@@ -3,5 +3,8 @@
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663019582932_0" label="Java Main Sources" name="Java Main Sources"/>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663019582961_1" label="Java Test Sources" name="Java Test Sources"/>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663019821836_3" label="Ejercicio3" name="Ejercicio3"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1664293630111_4" label="ej8-distribuidora" name="ej8-distribuidora">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ej8-distribuidora" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663019584667_2" label="Window Working Set" name="Aggregate for window 1663019584666"/>
 </workingSetManager>
