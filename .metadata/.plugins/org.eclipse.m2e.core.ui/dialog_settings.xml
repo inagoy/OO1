@@ -27,6 +27,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.Ejercicio11"/>
 			<item value="ar.edu.unlp.info.oo1.Ejercicio6"/>
 			<item value="ar.edu.unlp.info.oo1.Ejercicio8"/>
 			<item value="ar.edu.unlp.info.oo1.Ejercicio5"/>
@@ -38,6 +39,7 @@
 			<item value="ar.edu.unlp.info.oo1"/>
 		</list>
 		<list key="artifactId">
+			<item value="Ejercicio11"/>
 			<item value="Ejercicio6"/>
 			<item value="Ejercicio8"/>
 			<item value="Ejercicio5"/>
@@ -79,6 +81,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Iñaki\Desktop\ej8-distribuidora"/>
 			<item value="E:\Informatica\OO1\Proyectos Eclipse\Ejercicio4"/>
 			<item value="E:\Informatica\OO1\Proyectos Eclipse\Ejercicio3"/>
 			<item value="E:\Informatica\AED\Proyectos Eclipse\Ejercicio3"/>

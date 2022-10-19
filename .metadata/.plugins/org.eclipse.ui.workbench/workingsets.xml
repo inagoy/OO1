@@ -6,5 +6,8 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1664293630111_4" label="ej8-distribuidora" name="ej8-distribuidora">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ej8-distribuidora" type="4"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1666214215405_5" label="Ejercicio13" name="Ejercicio13">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio13" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663019584667_2" label="Window Working Set" name="Aggregate for window 1663019584666"/>
 </workingSetManager>
