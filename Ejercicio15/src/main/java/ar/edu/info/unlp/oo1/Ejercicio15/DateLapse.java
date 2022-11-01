@@ -23,9 +23,14 @@ public class DateLapse {
 		return from.until(to).getDays();
 	}
 	
-	public boolean includesDate(LocalDate other) {
-		return other.isEqual(from) || other.isEqual(to)
-				|| (other.isAfter(from) && other.isBefore(to));
+	public boolean includesDate(LocalDate aDate) {
+		return aDate.isEqual(from) || aDate.isEqual(to)
+				|| (aDate.isAfter(from) && aDate.isBefore(to));
+	}
+	
+	public boolean containsPeriod(DateLapse other) {
+		return this.includesDate(other.getFrom())
+				&& this.includesDate(other.getTo());
 	}
 	
 	public boolean overlaps(DateLapse anotherDateLapse) {

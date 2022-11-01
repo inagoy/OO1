@@ -16,6 +16,22 @@ public class Usuario {
 		this.propiedades = new ArrayList<Propiedad>();
 	}
 	
+	
+	public String getNombre() {
+		return nombre;
+	}
+
+
+	public String getDireccion() {
+		return direccion;
+	}
+
+
+	public String getDni() {
+		return dni;
+	}
+
+
 	public Propiedad registrarPropiedad(String nombre, String descripcion,
 			String direccion, double precioNoche) {
 		Propiedad nueva = new Propiedad(nombre,descripcion,direccion,precioNoche);
